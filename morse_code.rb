@@ -10,4 +10,21 @@ def decode_char(char)
   MORSE_CODE.key(char)
 end
 
+def decode_word(word)
+  result = ''
+  characters = word.split
+  characters.each { |char| result += char.split.map { |code| decode_char(code) }.join }
+  result
+end
+
+def decode(message)
+  result = ''
+  words = message.split('  ')
+  words.each { |text| result += "#{text.split.map { |code| decode_word(code) }.join} " }
+  result
+end
+
 puts decode_char('.-')
+puts decode_word('.- ...- .-')
+puts decode('-- -.--   -. .- -- .')
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
