@@ -48,11 +48,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Decode Morse code <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Decode Morse code** This project help user to decode morse code to A to Z characters
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,21 +63,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://reactjs.org/">Ruby</a></li>
   </ul>
 </details>
 
@@ -87,9 +73,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Decode Characters**
+- **Decode words**
+- **Decode messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +85,6 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +117,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:manq2010/morse-code.git
 ```
 --->
 
@@ -193,17 +178,17 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Abdallah Antony**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/abdallahmalima)
+- Twitter: [@twitterhandle](https://twitter.com/Softmal1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdallah-malima-antony/)
 
-👤 **Author2**
+👤 **Mancoba Sihlongonyane**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@manq2010](https://github.com/manq2010/)
+- Twitter: [@mancoba_c](https://twitter.com/mancoba_c/)
+- LinkedIn: [mancobasihlongonyane](https://linkedin.com/in/mancobasihlongonyane/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,9 +198,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Decode pagagraph of morse code**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,17 +208,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
+Feel free to check the [issues page](https://github.com/manq2010/morse-code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,31 +218,16 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thanks microverse for great curriculum
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
